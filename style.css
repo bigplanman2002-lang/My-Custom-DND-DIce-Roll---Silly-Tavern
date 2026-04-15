@@ -1,0 +1,33 @@
+#dice_dropdown {
+    z-index: 30000;
+    backdrop-filter: blur(var(--SmartThemeBlurStrength));
+    max-height: 400px;
+    overflow-y: auto;
+}
+
+#dice_dropdown .list-group {
+    margin-bottom: 0;
+}
+
+#dice_dropdown .dice-option {
+    cursor: pointer;
+    transition: background-color 0.15s ease;
+    user-select: none;
+}
+
+#dice_dropdown .dice-option:hover {
+    filter: brightness(1.2);
+}
+
+#dice_dropdown .dice-section-header {
+    font-weight: bold;
+    font-size: 0.8em;
+    text-transform: uppercase;
+    opacity: 0.6;
+    pointer-events: none;
+    padding: 4px 10px;
+}
+
+.dice_settings .text_pole {
+    width: 120px;
+}
