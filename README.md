@@ -7,7 +7,7 @@ D&D dice roller for SillyTavern with function tool support, advantage/disadvanta
 Install via the built-in "Download Extensions and Assets" tool. Or use a direct link:
 
 ```txt
-https://github.com/SillyTavern/Extension-Dice
+https://github.com/bigplanman2002-lang/My-Custom-DND-DIce-Roll---Silly-Tavern
 ```
 
 ## Features
